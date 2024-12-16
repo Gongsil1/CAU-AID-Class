@@ -60,4 +60,4 @@ Predicted Label: Virginica
 This project is licensed under the MIT License.
 
 ## Author
-Developed by 이현민
+Developed by [이현민](https://www.cau.ac.kr/index.do)
